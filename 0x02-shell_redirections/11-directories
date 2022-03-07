@@ -1,0 +1,3 @@
+#!/bin/bash
+find ./* -type d -prit | wc -1
+find ./* -type d -print | wc-1
